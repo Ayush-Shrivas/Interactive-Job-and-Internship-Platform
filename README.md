@@ -1,9 +1,9 @@
 # WayAhead: Interactive Job & Internship Platform
 
 ## 📖 Overview
-[cite_start]**WayAhead** is a comprehensive solution designed to bridge the gap between academia and the employment sector[cite: 65]. [cite_start]Graduates often face significant challenges in transitioning to the professional world, and existing platforms lack access to diverse opportunities across private, government, and international sectors[cite: 7, 8].
-
-[cite_start]WayAhead solves this by providing an **AI-driven ecosystem** that not only connects job seekers with employers but also offers tools for skill development, mentorship, and industrial training[cite: 9, 12].
+**WayAhead** is a comprehensive solution designed to bridge the gap between academia and the employment sector. 
+Graduates often face significant challenges in transitioning to the professional world, and existing platforms lack access to diverse opportunities across private, government, and international sectors.
+WayAhead solves this by providing an **AI-driven ecosystem** that not only connects job seekers with employers but also offers tools for skill development, mentorship, and industrial training.
 
 ---
 
