@@ -10,17 +10,17 @@
 ## ✨ Key Features
 
 ### 🎯 Smart Recruitment
-* [cite_start]**AI-Driven Matchmaking:** Advanced algorithms match job seekers with employers based on skills, qualifications, and preferences[cite: 9].
-* [cite_start]**Sector-Specific Search:** Tailored search options and filters for finding precise job openings[cite: 20].
-* [cite_start]**Diverse Opportunities:** Centralized access to up-to-date listings in private, government, and international sectors[cite: 10].
+* **AI-Driven Matchmaking:** Advanced algorithms match job seekers with employers based on skills, qualifications, and preferences[cite: 9].
+* **Sector-Specific Search:** Tailored search options and filters for finding precise job openings[cite: 20].
+* **Diverse Opportunities:** Centralized access to up-to-date listings in private, government, and international sectors[cite: 10].
 
 ### 🛠️ Career Development Tools
-* [cite_start]**Skill Development Aids:** Integrated resume builders, interview simulators, and career assessments[cite: 21].
-* [cite_start]**Internship & Training:** A dedicated section for internships and industrial training opportunities[cite: 12].
+* **Skill Development Aids:** Integrated resume builders, interview simulators, and career assessments[cite: 21].
+* **Internship & Training:** A dedicated section for internships and industrial training opportunities[cite: 12].
 
 ### 🤝 Mentorship & Support
-* [cite_start]**Mentorship Programs:** Connects students with industry professionals for guidance and knowledge sharing[cite: 12, 66].
-* [cite_start]**Counseling Services:** Comprehensive support resources for interview prep and career advice[cite: 11].
+* **Mentorship Programs:** Connects students with industry professionals for guidance and knowledge sharing[cite: 12, 66].
+* **Counseling Services:** Comprehensive support resources for interview prep and career advice[cite: 11].
 
 ---
 
@@ -41,8 +41,8 @@
 ---
 
 ## 🚀 Project Status
-* [cite_start]**Current Progress:** 55% of the product build is complete[cite: 36].
-* [cite_start]**Next Phase:** Testing and validation processes[cite: 36].
+* **Current Progress:** 55% of the product build is complete[cite: 36].
+* **Next Phase:** Testing and validation processes[cite: 36].
 
 ---
 
@@ -57,3 +57,30 @@
 ```bash
 git clone [https://github.com/wayahead/platform.git](https://github.com/wayahead/platform.git)
 cd platform
+```
+### 2. Backend Initialization (GCP)
+```bash
+# Login to Google Cloud
+gcloud auth login
+
+# Set Project
+gcloud config set project [PROJECT_ID]
+
+# Deploy to Cloud Run
+gcloud run deploy wayahead-backend --source .
+```
+
+### 3. Frontend Initialization
+```bash
+cd frontend
+flutter pub get
+flutter run -d chrome
+```
+## 🛡️ Security & Scalability
+
+* [cite_start]**Data Security:** Data encryption and secure authentication mechanisms are prioritized to ensure data privacy[cite: 55, 56].
+* [cite_start]**Scalability:** The platform utilizes cloud back-end technologies that automatically scale up or down based on traffic[cite: 59].
+
+## 👥 Contact & License
+
+* **Category:** Open Innovation
