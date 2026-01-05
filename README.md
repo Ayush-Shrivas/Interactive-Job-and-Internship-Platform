@@ -1,9 +1,5 @@
 # WayAhead: Interactive Job & Internship Platform
 
-> [cite_start]**Team Name:** WAYAHEAD [cite: 5]
-> [cite_start]**Event:** EUREKA 2025 [cite: 1]
-> [cite_start]**Theme:** Smart Education [cite: 3]
-
 ## 📖 Overview
 [cite_start]**WayAhead** is a comprehensive solution designed to bridge the gap between academia and the employment sector[cite: 65]. [cite_start]Graduates often face significant challenges in transitioning to the professional world, and existing platforms lack access to diverse opportunities across private, government, and international sectors[cite: 7, 8].
 
